@@ -1,0 +1,10 @@
+﻿TABLE.dump * { font-family: Tahoma; font-size: 12px; }
+TABLE.dump { margin-bottom: 1em; border-collapse: collapse; border: solid 2px #0089c5; }
+TABLE.dump TH, TABLE.dump TD { padding: 3px; }
+TABLE.dump TH, TABLE.dump TD { border: 1px solid #0089c5; }
+TABLE.dump TH { text-align: right; vertical-align: top; }
+TABLE.dump TH.dump-header { background-color: #0089c5; color: #eee; text-align: center; }
+.dump-prop-name { background-color: #ddd; }
+.dump-prop-val { }
+.dump-non-value{ font-style: italic; color: Green; }
+.dump-error { font-style: italic; color: Red; }
